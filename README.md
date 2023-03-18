@@ -1,17 +1,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UUBYepX4WSiNFf8GOT/giphy.gif" width="200"/>
 </div>
-<div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
-</div>
+<a href="your-linkedin-link">
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn Badge"/ height=30 width=30>
+  </a> &nbsp;
+  <a href="your-profile-link">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram Badge"/ height=30 width=30>
+  </a> &nbsp;
+  <a href="mailto:your-email-id">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Badge"/ height=30 width=30>
+  </a> &nbsp;
+  <br><br>
 ---
 
 ### :woman_technologist: About Me :
@@ -20,6 +19,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I watch movies.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/shahid-p-j-9701b5243/)](your-linkedin-url)
