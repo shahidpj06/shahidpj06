@@ -47,4 +47,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 <img src="https://github-readme-stats.vercel.app/api?username=shahidpj06&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username=shahidpj06&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username=&theme=dark&background=000000)](https://git.io/streak-stats)
