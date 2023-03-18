@@ -5,7 +5,7 @@
  <a href="your-linkedin-link">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn Badge"/ height=30 width=30>
   </a> &nbsp;
-  <a href="your-profile-link">
+  <a href="https://www.linkedin.com/in/shahid-p-j-9701b5243/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram Badge"/ height=30 width=30>
   </a> &nbsp;
   <a href="mailto:your-email-id">
@@ -14,7 +14,7 @@
   <br><br>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="400"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 ---
 
