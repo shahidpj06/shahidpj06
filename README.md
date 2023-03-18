@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UUBYepX4WSiNFf8GOT/giphy.gif" width="200"/>
 </div>
-<a href="your-linkedin-link">
+<a href="your-linkedin-link" align="center>
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn Badge"/ height=30 width=30>
   </a> &nbsp;
-  <a href="your-profile-link">
+  <a href="your-profile-link" align="center>
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram Badge"/ height=30 width=30>
   </a> &nbsp;
-  <a href="mailto:your-email-id">
+  <a href="mailto:your-email-id" align="center>
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Badge"/ height=30 width=30>
   </a> &nbsp;
   <br><br>
