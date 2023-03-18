@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/UUBYepX4WSiNFf8GOT/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
- <a href="your-linkedin-link">
+ <a href="https://www.linkedin.com/in/shahid-p-j-9701b5243/">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn Badge"/ height=30 width=30>
   </a> &nbsp;
   <a href="https://www.linkedin.com/in/shahid-p-j-9701b5243/">
