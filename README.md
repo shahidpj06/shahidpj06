@@ -19,14 +19,14 @@
 
 ---
 
-### :woman_technologist: About Me :
+### About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :zap: In my free time, I watch movies.
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
@@ -44,7 +44,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 <img src="https://github-readme-stats.vercel.app/api?username=shahidpj06&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username=&theme=dark&background=000000)](https://git.io/streak-stats)
