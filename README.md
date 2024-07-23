@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/UUBYepX4WSiNFf8GOT/giphy.gif" width="200"/>
+  <img <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
+
+    <dotlottie-player src="https://lottie.host/cc497c07-f051-4ec4-9bc5-e00dbac80797/Nxj3lGCeQS.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player> width="200"/>
 </div>
 <div id="badges" align="center">
  <a href="https://www.linkedin.com/in/shahid-p-j-9701b5243/">
